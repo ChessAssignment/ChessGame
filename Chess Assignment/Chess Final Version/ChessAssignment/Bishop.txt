@@ -1,0 +1,9 @@
+Bishop, what is straight
+x-----x- 
+-x---x-- 
+--x-x--- 
+---B---- 
+--x-x--- 
+-x---x--
+x-----x-
+-------x
